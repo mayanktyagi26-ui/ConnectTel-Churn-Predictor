@@ -1,4 +1,4 @@
-﻿import streamlit as st
+import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
@@ -20,6 +20,9 @@ st.markdown("""
     }
     div[data-testid="stMetricValue"] {
         color: #FF5252;
+    }
+    input {
+        color: #FAFAFA !important;
     }
 </style>
 """, unsafe_allow_html=True)
