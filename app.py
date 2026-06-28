@@ -29,6 +29,7 @@ st.markdown("""
 
 st.title("📡 ConnectTel Advanced Churn Prediction Dashboard")
 st.markdown("Leveraging Machine Learning to identify high-risk customers and formulate strategic retention plans.")
+st.caption("### A capstone project from Mayank Tyagi - 9891005378")
 st.divider()
 
 @st.cache_resource
